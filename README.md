@@ -1,12 +1,29 @@
-# Customer Shopping Trends Analysis
+# 📊 Customer Sales Analysis using Python
 
-## By: [Tahsin Jahin Khalid](https://tahsinjahinkhalid.github.io/)
+Customer Sales Analysis is a data analytics project developed in Python to explore, visualize, and understand customer purchasing behavior and sales performance. The project focuses on identifying revenue trends, top-performing products, customer segments, and business growth opportunities using Exploratory Data Analysis (EDA).
 
-## About
+---
 
-Data Analysis has been performed on the dataset and valuable insights are noted.
+## 🔍 Project Objectives
 
-Tech Used: Python (NumPy, Pandas, Matplotlib, Seaborn) and Jupyter Notebook
+- Analyze sales trends over time  
+- Identify top revenue-generating products and categories  
+- Segment customers based on purchasing behavior (RFM)  
+- Evaluate region-wise and payment-mode-wise sales  
+- Generate insights to support data-driven business decisions  
 
-## Dataset Link:
-- [Kaggle Link](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends_updated.csv)
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Tool / Library | Purpose |
+|----------------|---------|
+| **Python** | Core programming language |
+| **Pandas, NumPy** | Data cleaning & manipulation |
+| **Matplotlib, Seaborn, Plotly** | Data visualization |
+| **Jupyter Notebook** | Analysis & documentation |
+| **Power BI / Tableau (optional)** | Dashboard creation |
+
+---
+
+
