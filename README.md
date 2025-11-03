@@ -1,2 +1,12 @@
-# customer-sales-analysis
-The analysis helps businesses make informed decisions related to marketing, pricing, inventory, and customer retention. Tools such as Python (Pandas, Matplotlib, Seaborn) or Power BI/Tableau are used to derive insights.
+# Customer Shopping Trends Analysis
+
+## By: [Tahsin Jahin Khalid](https://tahsinjahinkhalid.github.io/)
+
+## About
+
+Data Analysis has been performed on the dataset and valuable insights are noted.
+
+Tech Used: Python (NumPy, Pandas, Matplotlib, Seaborn) and Jupyter Notebook
+
+## Dataset Link:
+- [Kaggle Link](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends_updated.csv)
